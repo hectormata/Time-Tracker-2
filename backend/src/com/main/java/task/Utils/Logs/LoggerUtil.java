@@ -3,10 +3,7 @@ package com.main.java.task.Utils.Logs;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
-/**
- * @author ADas1
- *
- */
+
 public class LoggerUtil {
 
     private Log logger = null;
